@@ -8,7 +8,9 @@
 
 
 
-# Getter and setter methods don't have underscores because they are part of the public API of the class, 
+# Getter and setter methods don't have underscores because they are part of the public API of the class
+# Getter is expected to return the internal property value. '_status' and not 'status'
+
     # implcit getter 
     # @property
     # def motherboard(self):

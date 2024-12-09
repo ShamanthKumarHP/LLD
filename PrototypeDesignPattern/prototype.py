@@ -31,6 +31,11 @@ class Menu_Botton(Button_Prototype):
         print(f"height = {self.height}")
         print(f"width = {self.width}")
     
+    # I can also use __str__ 
+    # when we print object, it will call str of object and below we are overriding it
+    def __str__(self) -> str:
+        return f"Menu_Button(text={self.text})"
+    
     def update_text(self, text):
         self.text = text
 
@@ -41,6 +46,7 @@ if __name__ == '__main__':
     button2.update_text("thanks")
     button2.display()
     button1.display()
+    print(button1)
 
 
 

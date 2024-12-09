@@ -1,0 +1,32 @@
+Advance concepts and topics
+
+Getters and setters
+    Refer getters_setters.py
+
+GIL (Global Interpreter Lock)
+    Global Interpreter Lock (GIL) ensures that only one thread executes Python bytecode at a time.
+    the GIL (Global Interpreter Lock) handles thread safety at the bytecode level, 
+    it doesn't guarantee thread-safety at the object instantiation level when 
+    multiple threads are concurrently checking cls._instance. 
+    This can lead to race conditions where multiple instances are created.
+
+__new__ vs. __init__
+    The __new__ method is responsible for actually creating the instance of the class.
+    The __init__ method is the initializer, called after an object has already been created.
+
+Concurrency
+    The ability to manage multiple tasks at once (not necessarily at the same time).
+    Broader concept — can include threading, multiprocessing, etc.
+
+Parallelism
+    Parallelism refers to performing tasks simultaneously.
+    Tasks may share memory or be independent (depending on the implementation, e.g., multithreading vs. multiprocessing).
+
+Multithreading
+    A specific implementation of concurrency where tasks are divided into threads that run in parallel or overlap.
+    multithreading is often used to achieve concurrency, 
+    it can also lead to parallelism when running on a multi-core processor.
+
+Multiprocessing
+    Multiprocessing is a specific technique for achieving parallelism by using multiple processes.
+    Processes have separate memory spaces, so they do not share memory.

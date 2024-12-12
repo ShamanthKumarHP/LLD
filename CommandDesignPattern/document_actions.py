@@ -54,7 +54,7 @@ class ActionCommandOpen:
 # Invoker
 class MenuOptions:
     def __init__(self):
-        self.commands_list = [] # we can use it for undo/redo also
+        self.commands_list = [] # type :ActionCommand # we can use it for undo/redo also 
     
     def addCommand(self, cmd):
         self.commands_list.append(cmd)

@@ -1,0 +1,17 @@
+Classification of Design Patterns.
+
+Creational:
+    1. Factory
+    2. Builder
+    3. Prototype
+
+Behavioural:
+    1. Observer
+    2. Singleton
+    3. Command 
+    4. Chain of responsibility
+    5. Iterator
+    6. Strategy
+
+
+Structural:

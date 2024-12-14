@@ -1,3 +1,5 @@
+# crux: Command as an object, which is also easy to undo/redo
+
 # We will have a Command Interface, Concrete Commands, 
 # May have abstract Receiver, and Concrete Receiver
 # Invoker

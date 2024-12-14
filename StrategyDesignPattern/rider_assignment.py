@@ -1,4 +1,4 @@
-# crux: selecting multiple algorithms based on requirement
+# crux: escapsulate algorithms, selecting multiple algorithms based on requirement
 from abc import ABC, abstractmethod
 
 # Abstract selection algorithm

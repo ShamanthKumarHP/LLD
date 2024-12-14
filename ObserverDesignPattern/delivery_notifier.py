@@ -1,3 +1,5 @@
+# crux: a subject has to be notified to multiple objects
+
 from abc import ABC, abstractmethod
 
 class ProductOrder:

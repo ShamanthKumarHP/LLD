@@ -1,4 +1,5 @@
-# To create similar copies of an object.
+# crux: delegate cloning an object to object itself
+
 # Just will have a wrapper for copy
 
 from abc import ABC, abstractmethod

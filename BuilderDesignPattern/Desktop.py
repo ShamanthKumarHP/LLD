@@ -1,4 +1,4 @@
-# Building objects with many optional settings.(complex and multpiple configurations)
+# crux: Building objects with many optional settings.(complex and multpiple configurations)
 
 
 from abc import ABC, abstractmethod

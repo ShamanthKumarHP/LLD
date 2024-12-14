@@ -1,3 +1,4 @@
+# crux: access elements of an aggregate objects
 from abc import ABC, abstractmethod
 
 # product class
@@ -37,9 +38,15 @@ class Iterator(ABC):
     def first(self):
         pass
 
-# concrete class
-class Product_Iterator(Iterator):
+# concrete iterator - order to follow as per name
+# To be implemented
 
+# concrete iterator - order to follow as per price
+# To be implemented
+
+# concrete iterator - order to follow as queue
+class Queue_Based_Product_Iterator(Iterator):
+    """ Just gives product as stored in queue"""
      #_hasNext :bool, _first : Product, _next : Product
     def __init__(self, products):
         self.__current = 0
@@ -72,7 +79,7 @@ class Inventory:
         self.products.append(item)
     
     def createIterator(self):
-        return Product_Iterator(self.products)
+        return Queue_Based_Product_Iterator(self.products) # we can select type of iterator we want
     
 
 if __name__ == "__main__":

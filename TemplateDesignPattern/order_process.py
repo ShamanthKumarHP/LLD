@@ -1,4 +1,4 @@
-# crux: What steps to be taken is final, but behaviour of each step will vary
+# crux: Skeleton is defined for what steps to be taken, but behaviour of each step will vary
 
 from abc import ABC, abstractmethod
 
@@ -50,6 +50,6 @@ if __name__ == "__main__":
 
     my_order = InternationalOrderProcess()
     my_order.process_order()
-    
+
         
     

@@ -1,3 +1,5 @@
+# crux: similar objects creation by encapsulate creation process
+
 # 
 # products
 #

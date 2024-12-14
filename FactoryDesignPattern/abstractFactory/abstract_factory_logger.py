@@ -1,3 +1,5 @@
+# crux: creating families of similar objects
+
 # Sofa - modern, traditional
 # Table - modern, traditional
 

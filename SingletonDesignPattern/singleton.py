@@ -1,5 +1,4 @@
-# explain with following steps.
-
+# crux: to have a sinle instance of a class
 
 # If we use just __init__, wrong approach
 class PaymentGatewayManager:

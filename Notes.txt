@@ -16,3 +16,4 @@ Behavioural:
 
 
 Structural:
+    1. Adapter

@@ -43,10 +43,12 @@ class Pizza(FoodItem):
 # Why are we inheriting from FoodItem?
 # Because, even after adding toppings, it will be stil our food item with just added toppings.
 # it will also have description and price
-class Decorator(FoodItem):
+
+# is a + has a
+class Decorator(FoodItem): # is a
     def __init__(self, item):
-        super().__init__()
-        self._food_item = item
+        super().__init__() 
+        self._food_item = item # has a
 
     @property
     def food_item(self):

@@ -1,5 +1,7 @@
 # LLD/BuilderDesignPattern/Desktop.py
 
+# getter (accessor) and setter (mutator)
+
 # When you access desktop.motherboard, 
 # Python uses the getter method behind the scenes to return the _motherboard value.
 
@@ -38,3 +40,11 @@
 #     def set_motherboard(self, value):
 #         self.__motherboard = value
 
+# using setter and getters to modify the protected data members during inheritance.
+# meaning we can add logic to validate, transform, or process the data before it is accessed or modified.
+#
+# we use setters and getters to maintain encapsulation.
+# 
+# we can either leverage property for getters and setters(Recommended) OR write our own getters and setters
+#
+# Refer LLD/AdvanceConcepts/access for more details understanding

@@ -17,3 +17,4 @@ Behavioural:
 
 Structural:
     1. Adapter
+    2. Decorator

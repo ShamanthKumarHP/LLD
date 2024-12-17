@@ -1,17 +1,17 @@
 Classification of Design Patterns.
 
 Creational:
-    1. Factory - Simple, Method, Abstract
+    1. Factory - Simple, Method, Abstract ###
     2. Builder
     3. Prototype
-    4. Singleton
+    4. Singleton ###
 
 Behavioural:
-    1. Observer
+    1. Observer ###
     2. Command
     3. Chain of responsibility
     4. Iterator
-    5. Strategy
+    5. Strategy ###
     6. Template
 
 

@@ -2,6 +2,8 @@
 
 # wrapping objects
 
+# has a + is a
+
 from abc import ABC, abstractmethod
 
 # Abstract class - representing a food item

@@ -5,7 +5,7 @@ class FoodItem:
     def __init__(self):
         print("init of food item")
         self.description = None
-        self.price = None
+        self._price = None # if we are using propery getters and setters then make it protected
 
     # Getter for description
     def get_description(self):
@@ -16,14 +16,17 @@ class FoodItem:
         self.description = value
 
     # Getter for price
-    def get_price(self):
-        return self.price
+    @property
+    def price(self):
+        return self._price
+        #return self.price -> causes recursion
 
     # Setter for price
-    def set_price(self, value):
+    @price.setter
+    def price(self, value):
         if value < 0:
             raise ValueError("Price cannot be negative")
-        self.price = value
+        self._price = value
 
 class Burger(FoodItem):
     def __init__(self):
@@ -34,14 +37,14 @@ food_item = Burger()
 
 # Setting values using setters
 food_item.set_description("Burger")
-food_item.set_price(100)
+food_item.price = 100
 
 # Getting values using getters
 print(food_item.get_description())  # Output: Burger
-print(food_item.get_price())        # Output: 100
+print(food_item.price)        # Output: 100
 
 # Trying to set an invalid price
 try:
-    food_item.set_price(-50)  # This will raise an exception
+    food_item.price = -10 # This will raise an exception
 except ValueError as e:
     print(e)  # Output: Price cannot be negative

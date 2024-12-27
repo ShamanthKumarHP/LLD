@@ -21,3 +21,4 @@ Structural:
     3. Bridge
     4. Composite
     5. Facade
+    6. Proxy

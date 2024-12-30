@@ -1,6 +1,8 @@
 # crux: to have a sinle instance of a class
 
-# If we use just __init__, wrong approach
+# Note: First __new__ will be called, then __init__ will be called
+
+# wrong approach : If we use just __init__
 class PaymentGatewayManager:
     _instance = None
 

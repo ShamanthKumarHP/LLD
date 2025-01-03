@@ -1,0 +1,7 @@
+Place Sell/Buy Order - Limit/Market Price - Intraday/Delivery
+Modify Order
+Cancel Order
+Watchlist
+View Stocks
+Search
+Portfolio

@@ -1,0 +1,510 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1371px" height="930px" viewBox="-0.5 -0.5 1371 930" content="&lt;mxfile&gt;&lt;diagram id=&quot;AmtGN95PSIWwtHnDuHls&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-244-321-182-26-0">
+            <rect x="244" y="321" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-244-355-182-110-0">
+            <rect x="244" y="355" width="182" height="110"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-321-152-26-0">
+            <rect x="4" y="321" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-355-152-26-0">
+            <rect x="4" y="355" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1184-81-182-26-0">
+            <rect x="1184" y="81" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1184-115-182-26-0">
+            <rect x="1184" y="115" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-554-71-182-26-0">
+            <rect x="554" y="71" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-554-105-182-110-0">
+            <rect x="554" y="105" width="182" height="110"/>
+        </clipPath>
+        <clipPath id="mx-clip-744-631-212-26-0">
+            <rect x="744" y="631" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-744-665-212-26-0">
+            <rect x="744" y="665" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-751-152-94-0">
+            <rect x="644" y="751" width="152" height="94"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-853-152-26-0">
+            <rect x="644" y="853" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-254-631-152-26-0">
+            <rect x="254" y="631" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-254-665-152-26-0">
+            <rect x="254" y="665" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-874-751-152-94-0">
+            <rect x="874" y="751" width="152" height="94"/>
+        </clipPath>
+        <clipPath id="mx-clip-874-853-152-26-0">
+            <rect x="874" y="853" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-164-761-152-26-0">
+            <rect x="164" y="761" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-164-795-152-26-0">
+            <rect x="164" y="795" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-761-152-26-0">
+            <rect x="374" y="761" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-795-152-26-0">
+            <rect x="374" y="795" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-784-351-162-26-0">
+            <rect x="784" y="351" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-784-385-162-26-0">
+            <rect x="784" y="385" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1124-631-152-26-0">
+            <rect x="1124" y="631" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1124-665-152-26-0">
+            <rect x="1124" y="665" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-189-162-26-0">
+            <rect x="884" y="189" width="162" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 287.5 290 L 194.68 204.32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 190.82 200.76 L 198.34 202.93 L 194.68 204.32 L 193.59 208.08 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 316 L 240 290 L 430 290 L 430 316" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 316 L 240 460 L 430 460 L 430 316" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 316 L 430 316" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="334.5" y="307.5">
+                StockBrokerSystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-244-321-182-26-0)" font-size="12px">
+            <text x="245.5" y="333.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 240 346 L 430 346" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-244-355-182-110-0)" font-size="12px">
+            <text x="245.5" y="367.5">
+                + placeOrder(OrderMetadata)
+            </text>
+            <text x="245.5" y="381.5">
+                + updateOrder()
+            </text>
+            <text x="245.5" y="395.5">
+                + getWatchList
+            </text>
+        </g>
+        <path d="M 80 290 L 146.09 205.03" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 149.31 200.88 L 147.78 208.56 L 146.09 205.03 L 142.25 204.26 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 316 L 0 290 L 160 290 L 160 316" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 316 L 0 376 L 160 376 L 160 316" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 316 L 160 316" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="307.5">
+                Client
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-321-152-26-0)" font-size="12px">
+            <text x="5.5" y="333.5">
+                + ID: type
+            </text>
+        </g>
+        <path d="M 0 346 L 160 346" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-355-152-26-0)" font-size="12px">
+            <text x="5.5" y="367.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 110 66 L 110 40 L 270 40 L 270 66" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 110 66 L 110 200 L 270 200 L 270 66" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 110 66 L 270 66" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="189.5" y="57.5">
+                OrderMetadata
+            </text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 101px; margin-left: 190px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span style="color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">
+                                    + stockID(type): type
+                                </span>
+                                <div style="border-color: rgb(0, 0, 0); padding: 0px; margin: 0px; color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    + Quantity:
+                                </div>
+                                <div style="border-color: rgb(0, 0, 0); padding: 0px; margin: 0px; color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    + is_buy:
+                                </div>
+                                <div style="border-color: rgb(0, 0, 0); padding: 0px; margin: 0px; color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    + isLimit:
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="190" y="105" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    + stockID(type): type...
+                </text>
+            </switch>
+        </g>
+        <path d="M 110 168 L 270 168" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1180 76 L 1180 50 L 1370 50 L 1370 76" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1180 76 L 1180 136 L 1370 136 L 1370 76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1180 76 L 1370 76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1274.5" y="67.5">
+                StockExchangeConnecter
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1184-81-182-26-0)" font-size="12px">
+            <text x="1185.5" y="93.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 1180 106 L 1370 106" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1184-115-182-26-0)" font-size="12px">
+            <text x="1185.5" y="127.5">
+                - __new__()
+            </text>
+        </g>
+        <path d="M 550 66 L 550 40 L 740 40 L 740 66" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 550 66 L 550 210 L 740 210 L 740 66" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 550 66 L 740 66" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="644.5" y="57.5">
+                OrderProcessor
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-554-71-182-26-0)" font-size="12px">
+            <text x="555.5" y="83.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 550 96 L 740 96" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-554-105-182-110-0)" font-size="12px">
+            <text x="555.5" y="117.5">
+                + __new__()
+            </text>
+            <text x="555.5" y="131.5">
+                + placeOrder()
+            </text>
+        </g>
+        <path d="M 430 329 L 546.38 160.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 549.37 155.92 L 548.27 163.67 L 546.38 160.24 L 542.51 159.7 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 626 L 740 600 L 960 600 L 960 626" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 626 L 740 686 L 960 686 L 960 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 626 L 960 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="849.5" y="617.5">
+                &lt;&lt;Order&gt;&gt;
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-744-631-212-26-0)" font-size="12px">
+            <text x="745.5" y="643.5">
+                + OrderID: type
+            </text>
+        </g>
+        <path d="M 740 656 L 960 656" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-744-665-212-26-0)" font-size="12px">
+            <text x="745.5" y="677.5">
+                + createOrder(): Order
+            </text>
+        </g>
+        <path d="M 760 720 L 838.16 692.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 844.76 690.37 L 839.31 695.99 L 837 689.38 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 746 L 640 720 L 800 720 L 800 746" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 746 L 640 874 L 800 874 L 800 746" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 746 L 800 746" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="719.5" y="737.5">
+                EquityOrder
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-751-152-94-0)" font-size="12px">
+            <text x="645.5" y="763.5">
+                + OrderID: type
+            </text>
+            <text x="645.5" y="777.5">
+                + stockID(type): type
+            </text>
+            <text x="645.5" y="791.5">
+                + Quantity:
+            </text>
+            <text x="645.5" y="805.5">
+                + is_buy:
+            </text>
+            <text x="645.5" y="819.5">
+                + isLimit:
+            </text>
+        </g>
+        <path d="M 640 844 L 800 844" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-853-152-26-0)" font-size="12px">
+            <text x="645.5" y="865.5">
+                + createOrder(type): type
+            </text>
+        </g>
+        <path d="M 910 720 L 867.73 691.52" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 861.93 687.61 L 869.69 688.62 L 865.78 694.43 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 250 626 L 250 600 L 410 600 L 410 626" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 250 626 L 250 686 L 410 686 L 410 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 250 626 L 410 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="329.5" y="617.5">
+                OrderFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-254-631-152-26-0)" font-size="12px">
+            <text x="255.5" y="643.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 250 656 L 410 656" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-254-665-152-26-0)" font-size="12px">
+            <text x="255.5" y="677.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 870 746 L 870 720 L 1030 720 L 1030 746" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 870 746 L 870 874 L 1030 874 L 1030 746" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 870 746 L 1030 746" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="949.5" y="737.5">
+                F&amp;O
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-874-751-152-94-0)" font-size="12px">
+            <text x="875.5" y="763.5">
+                + OrderID: type
+            </text>
+            <text x="875.5" y="777.5">
+                + stockID(type): type
+            </text>
+            <text x="875.5" y="791.5">
+                + Quantity:
+            </text>
+            <text x="875.5" y="805.5">
+                + is_buy:
+            </text>
+            <text x="875.5" y="819.5">
+                + isLimit:
+            </text>
+        </g>
+        <path d="M 870 844 L 1030 844" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-874-853-152-26-0)" font-size="12px">
+            <text x="875.5" y="865.5">
+                + createOrder(type): type
+            </text>
+        </g>
+        <path d="M 740 79 L 1173.63 88.86" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1178.88 88.97 L 1171.8 92.31 L 1173.63 88.86 L 1171.96 85.32 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 756 L 160 730 L 320 730 L 320 756" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 756 L 160 816 L 320 816 L 320 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 756 L 320 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="239.5" y="747.5">
+                EquityOrderFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-164-761-152-26-0)" font-size="12px">
+            <text x="165.5" y="773.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 160 786 L 320 786" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-164-795-152-26-0)" font-size="12px">
+            <text x="165.5" y="807.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 410 730 L 327.42 693.3" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 321.02 690.45 L 328.84 690.1 L 326 696.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 756 L 370 730 L 530 730 L 530 756" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 756 L 370 816 L 530 816 L 530 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 756 L 530 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="449.5" y="747.5">
+                F&amp;OFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-374-761-152-26-0)" font-size="12px">
+            <text x="375.5" y="773.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 370 786 L 530 786" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-374-795-152-26-0)" font-size="12px">
+            <text x="375.5" y="807.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 239.04 816.78 L 313.03 892.83 Q 320 900 330 900 L 711 900 Q 721 900 721.1 892.68 L 721.2 885.36" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 721.27 880.11 L 724.67 887.16 L 721.2 885.36 L 717.67 887.06 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 449.04 817.9 L 523.79 912.16 Q 530 920 540 920 L 913 920 Q 923 920 923.1 910 L 923.38 883.15" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 923.43 877.9 L 926.86 884.94 L 923.38 883.15 L 919.86 884.86 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 730 L 312.74 693.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 319 690.5 L 314.3 696.76 L 311.17 690.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 329.68 461.98 L 329.99 593.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 598.88 L 326.48 591.89 L 329.99 593.63 L 333.48 591.87 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 346 L 780 320 L 950 320 L 950 346" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 346 L 780 406 L 950 406 L 950 346" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 346 L 950 346" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="864.5" y="337.5">
+                OrderMgr
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-784-351-162-26-0)" font-size="12px">
+            <text x="785.5" y="363.5">
+                + orderMap: &lt;orderID, Order)
+            </text>
+        </g>
+        <path d="M 780 376 L 950 376" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-784-385-162-26-0)" font-size="12px">
+            <text x="785.5" y="397.5">
+                - __new__()
+            </text>
+        </g>
+        <path d="M 853.46 415.23 L 850 600" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 853.59 408.23 L 855.58 411.77 L 853.46 415.23 L 851.47 411.69 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1120 626 L 1120 600 L 1280 600 L 1280 626" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1120 626 L 1120 686 L 1280 686 L 1280 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1120 626 L 1280 626" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1199.5" y="617.5">
+                Stock
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1124-631-152-26-0)" font-size="12px">
+            <text x="1125.5" y="643.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 1120 656 L 1280 656" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1124-665-152-26-0)" font-size="12px">
+            <text x="1125.5" y="677.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 967.71 639 L 1120 639" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 960.71 639 L 964.21 635.5 L 967.71 639 L 964.21 642.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740 155 L 861.15 314.92" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 864.32 319.11 L 857.31 315.64 L 861.15 314.92 L 862.89 311.42 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 176 L 880 150 L 1050 150 L 1050 176" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 176 L 880 210 L 1050 210 L 1050 176" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 176 L 1050 176" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="964.5" y="167.5">
+                OrderValidator
+            </text>
+        </g>
+        <path d="M 880 180 L 1050 180" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-189-162-26-0)" font-size="12px">
+            <text x="885.5" y="201.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 740 79 L 874.32 147.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 879 149.49 L 871.18 149.45 L 874.32 147.12 L 874.34 143.21 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 260px; margin-left: 340px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Facde
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="340" y="264" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Facde
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 320px; margin-left: 1010px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Singleton
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1010" y="324" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Singleton
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 15px; margin-left: 745px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Singleton
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="745" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Singleton
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 25px; margin-left: 1235px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Singleton
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1235" y="29" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Singleton
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 640px; margin-left: 110px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Abstract Factory
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="110" y="644" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Factory
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

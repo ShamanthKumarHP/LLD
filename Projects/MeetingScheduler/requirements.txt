@@ -1,0 +1,14 @@
+Actors:
+    Book Meeting
+    Book Recurrent Meeting
+    Cancel Meeting
+    Cancel series of Meeting
+    Online Meeting
+    Offline Meeting
+
+Meeting Booking:
+    Selecting timeslot as per calendar
+    Selecting members
+    RSVP
+    Location
+    Body

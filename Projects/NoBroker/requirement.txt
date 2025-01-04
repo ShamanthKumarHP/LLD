@@ -1,0 +1,12 @@
+Different types of properties - land, house, flat
+Sell/Rent
+property visit
+listing out based on filters
+agreement
+buyer / seller / customer care
+
+Observations while desginging UML:
+Circular Dependency:
+Visitor class has a list of Visit objects (each Visitor visits one or more Visits).
+Visit class has a list of Visitor objects (each Visit can have multiple Visitors).
+

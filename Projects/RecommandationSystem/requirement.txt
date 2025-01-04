@@ -1,0 +1,8 @@
+Show Recommendations to user
+Collect feedback
+Gather Recommendation content as per Strategy
+Collect data of user and pass it to engine
+Process data of user and pass it to engine
+
+
+

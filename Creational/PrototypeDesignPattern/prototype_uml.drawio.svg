@@ -1,0 +1,97 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="581px" height="344px" viewBox="-0.5 -0.5 581 344" content="&lt;mxfile&gt;&lt;diagram id=&quot;YVoniNk7EAnwx820pwMt&quot; name=&quot;Page-1&quot;&gt;7VlRb5swEP41SO3DJgwhbR8b0m4PrRStlbY+TS52wKqxkXGapL9+ZzAhBNKmDas2CQkp3Oez47vvzncyjh+mq28KZ8mtJJQ7nktWjj91PO/M8xzzuGRdAoFvgVgxUkKoBu7YC7Wga9EFIzRvKGopuWZZE4ykEDTSDQwrJZdNtbnkzX/NcExbwF2EeRv9yYhOStRzXbce+E5ZnOjdkRRX2hbIE0zkcgvyrxw/VFLq8i1dhZQb51WOKedd7xnd7ExRoQ+ZYB3/jPnCGud4Yw5TJ9XvZKG1FDMltdTrjAIc22H7W5ih15Vz8iVLORYgTeZS6Ds7gkDGnMUC3iPYHFUAPFOlGfj10g5omQEaJYyTG7yWC2NCrnH0VEmTRCr2AstibteEYaVtiHjjhsadmQmwC6iiOejMKr+gHegWrxqKNzjXFogk5zjL2ePGjBSrmImJBL+kVsl6Ecyhq71MoA2/kBhUplSrNajYCaORDQmbFCiw8nIrxKqwSbaiC1UgtmEdb9auiYcXy313HPgdcTAxucGoSY5Lk2IF+ztsg726YEHJJxpKLoHWqZAl/YzzHaiKAE7nei//eYYjJuKbQmc6qpEf1mgDSZg750XqJIwQKgx3UmONS6IMK5lkQhdOCSbwgJtC92vgBLDxEGRUy/AYdaVDKcAWzArOKETBkub6UIK9boItoRCdB/FZ6R1D56iDzh3mOCsYKZmrjjH0IdpSIIDTmqd7Q+P0C2px6be59Dt44/iR8pnMmWbSrK9K3R0+36KsGZNMJFSxnqgMvMOoPD+eyWBPYhKWZxyvT8DKU8eEjI/Kg8gMLjKCNe0eizhwenJa5nTrcB/S+6MxMT7wuB73cFqjUYspSqBFsaJlI9FpVSXpiulfxm3gj1J6sE4079PVtrCuBAG7KieNgqACHqoVjVBPLKTGzBmkGxhm6nwBEpwnlGxmk0vTiIH4yKWp0ga6ZsbirYJqjHq9nIIP5EJFVsuenNASxFRv5U+bNEU51uy5ufoxlIxbeXpLxeJ3mWBDk9RXk+Q3myT/7DObpLOhSTr+FB3/M03S+dAkHdckvU7lJzZJF0OT9H+k96c2Se3WOeTMbHSoxv1U4/O3byzQuCvjezi8UbvhGorxu7MV7WmP91fjTkL7qMaoq7sayvE7yvEbZHbU4+7s7IHLrtbKJCeslEhyYhLzdMjRXmjtKKl/L0cvWlQddu9QvRe3Dps7iH33Dpu7gYjjPGfRfcJE44YAffiGAHVcEfjd/j32igDE+jtOMbb1Ncy/+gM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-364-31-212-26-0">
+            <rect x="364" y="31" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-364-65-212-60-0">
+            <rect x="364" y="65" width="212" height="60"/>
+        </clipPath>
+        <clipPath id="mx-clip-354-251-212-26-0">
+            <rect x="354" y="251" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-354-285-212-60-0">
+            <rect x="354" y="285" width="212" height="60"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-31-152-26-0">
+            <rect x="4" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-65-152-26-0">
+            <rect x="4" y="65" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 360 26 L 360 0 L 580 0 L 580 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 26 L 360 120 L 580 120 L 580 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 360 26 L 580 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="469.5" y="17.5">
+                &lt;&lt;ButtonPrototype&gt;&gt;
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-364-31-212-26-0)" font-size="12px">
+            <text x="365.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 360 56 L 580 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-364-65-212-60-0)" font-size="12px">
+            <text x="365.5" y="77.5">
+                + display(str)
+            </text>
+            <text x="365.5" y="91.5">
+                + update(str)
+            </text>
+            <text x="365.5" y="105.5">
+                + clone(): ButtonPrototype
+            </text>
+        </g>
+        <path d="M 460 220 L 460.09 128.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 460.1 121.12 L 463.59 128.12 L 456.59 128.11 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 246 L 350 220 L 570 220 L 570 246" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 246 L 350 340 L 570 340 L 570 246" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 246 L 570 246" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="459.5" y="237.5">
+                Menu_Button
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-354-251-212-26-0)" font-size="12px">
+            <text x="355.5" y="263.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 350 276 L 570 276" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-354-285-212-60-0)" font-size="12px">
+            <text x="355.5" y="297.5">
+                + display(str)
+            </text>
+            <text x="355.5" y="311.5">
+                + update(str)
+            </text>
+            <text x="355.5" y="325.5">
+                + clone(): ButtonPrototype
+            </text>
+        </g>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 86 L 160 86 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                Client
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-152-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 0 56 L 160 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-65-152-26-0)" font-size="12px">
+            <text x="5.5" y="77.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 160 39 L 353.63 39" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 358.88 39 L 351.88 41.33 L 353.63 39 L 351.88 36.67 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

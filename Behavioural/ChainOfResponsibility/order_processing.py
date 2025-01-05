@@ -33,13 +33,13 @@ class OrderPlace(Order_Processor): # aggregation + association relationship with
         status = True
         print("Order placed successfully")
         if status == True:
-            self.successHandler.process_order()
+            self.successHandler.process_order() # association  
         else:
             # self.failureHandler.process_order()
             print("Failed")
     
 class Payment(Order_Processor):
-    def __init__(self, successHandler=None, failureHandler=None):
+    def __init__(self, successHandler: Order_Processor = None, failureHandler: Order_Processor = None):
         super().__init__(successHandler, failureHandler)
     
     def process_order(self):

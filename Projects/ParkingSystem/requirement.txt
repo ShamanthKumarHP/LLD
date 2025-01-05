@@ -1,0 +1,10 @@
+Multi floor
+In a floor: dedicated 2W/4W/Physically Challenged
+In 2W: Eletric/ ICE
+In 4W: Electric/ ICE 
+(in future might get hybrid)
+
+Entry: Issue ticket, Allocate a Spot
+Parking spot: ID, Entry time, Exit time
+Exit: Charge as per time
+

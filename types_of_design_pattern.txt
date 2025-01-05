@@ -13,6 +13,7 @@ Behavioural:
     4. Iterator
     5. Strategy ###
     6. Template
+    7. State
 
 
 Structural:

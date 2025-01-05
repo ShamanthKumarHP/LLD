@@ -85,7 +85,7 @@ class TraditionalFunituresFactory(FurnitureFactory):
  # this will be exposed to client, client will choose his preference
 class FurnitureClient(ABC):
    
-    def create_furniture(self, furniture_type):
+    def create_furniture(self, furniture_type: str):
         if furniture_type == "modern":
             return ModernFurnituresFactory()
         elif furniture_type == "traditional":

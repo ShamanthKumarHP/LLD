@@ -1,0 +1,34 @@
+A. What Is the Core Concept?
+If your main concept is the category of furniture (e.g., Modern, Vintage, Luxury), 
+then the factories should focus on categories, 
+and each factory would produce multiple types of furniture in that category.
+
+If your focus is on the specific type of furniture (e.g., Table, Sofa, Chair),
+then your factories should focus on producing variations of that type of furniture, 
+and each type of furniture factory could offer different categories.
+
+
+B. Anticipate Future Changes
+For New Categories: 
+    If you anticipate adding new categories (like LuxuryFurniture, MinimalistFurniture), 
+    then it's better to stick with a factory structure like ModernFurnitureFactory, VintageFurnitureFactory, etc., 
+    because each factory deals with a specific category and can be easily extended with new product types within the same category.
+
+For New Furniture Types: 
+    If your goal is to specialize in specific types of furniture, 
+    like adding many different types of tables (e.g., CoffeeTable, DiningTable, ConsoleTable), 
+    then it might make sense to focus on factories like TableFurnitureFactory, ChairFurnitureFactory, etc.
+
+
+C. How to Implement the Factory
+Factory Per Category: 
+    If you're grouping by categories, 
+    you would likely have a factory interface that creates a family of furniture items for each category (e.g., ModernFurnitureFactory creates a ModernSofa, ModernTable, ModernChair).
+
+Factory Per Furniture Type: 
+    If you're grouping by furniture type, 
+    each factory would create different variations of that type (e.g., TableFurnitureFactory creates DiningTable, CoffeeTable, EndTable).
+
+
+Conclusion:
+    The choice depends on the structure of your product catalog and future growth considerations.

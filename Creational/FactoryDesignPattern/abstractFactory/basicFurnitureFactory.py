@@ -4,13 +4,17 @@
 # Table - modern, traditional
 
 # Problem statement:
-# I have modern sofas, modern tables as furnitures
+# I have few furnitures and have variations of categories modern sofas, modern tables as furnitures
+# would like to more categories in future, like vintage etc
 
 from abc import abstractmethod, ABC
+
+# class Furniture: If more abstraction needed
 
 #
 # Abstract Products
 #
+
 class Sofa(ABC):
     @abstractmethod
     def sitOn(self):
@@ -48,31 +52,41 @@ class TraditionalTable(Table):
 # should we create Table abstract factory and then inside create modern and traditional concreate factories etc
 # OR
 # should we create Modern abstract factory and then inside create table, sofa etc
-
-# we should ask ourselves, we have set of products, what will customer ask for? 
-# ans: He will choose modern or traditional set of products.
+# Refer notes.txt
 
 # Here its like creating factories of factories
 
+# Abstract Factory Class
 class FurnitureFactory(ABC):
-    # this will be exposed to client, client will choose his preference
-    def create_furniture(self, furniture_type):
-        if furniture_type == "modern":
-            return ModernFurnitures()
-        elif furniture_type == "traditional":
-            return TraditionalFunitures()
+    @abstractmethod
+    def create_sofa(self) -> Sofa: # less abstraction, if had Furniture class then more abstraction
+        pass
+    
+    @abstractmethod
+    def create_table(self) -> Table:
+        pass
 
-class ModernFurnitures(FurnitureFactory):
+
+class ModernFurnituresFactory(FurnitureFactory):
     def create_sofa(self):
         return ModernSofa()
 
     def create_table():
         return ModernTable()
 
-class TraditionalFunitures(FurnitureFactory):
+class TraditionalFunituresFactory(FurnitureFactory):
     def create_sofa():
         return TraditionalSofa()
     
     def create_table():
         return TraditionalTable()
 
+
+ # this will be exposed to client, client will choose his preference
+class FurnitureClient(ABC):
+   
+    def create_furniture(self, furniture_type):
+        if furniture_type == "modern":
+            return ModernFurnituresFactory()
+        elif furniture_type == "traditional":
+            return TraditionalFunituresFactory()

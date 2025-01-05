@@ -1,0 +1,17 @@
+Factory - Types of Properties
+Factory Method - Delegate creation to abstract class
+Abstract Factory - Payments
+singleton - OrderProcessor, DataManager / DB instance
+Prototype - Properties/Contracts
+Observer - Notifications
+Command - Undo/Redo
+Chain of Responsibility: Validation, Verification, Approval
+Iterator - Listing
+Strategy - Recommendation
+Template - Contract, Invoice
+Adapter - Third party like maps
+Decorator - Amenities
+Bridge - Maps
+Composite - Building / Each house
+Proxy - DB instance
+Facade - Initital Endpoint

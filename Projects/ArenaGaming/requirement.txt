@@ -1,0 +1,4 @@
+Player - Health, Damage, Strength
+Arena - multiple match
+Dice to roll of each Player
+Attacker wins if dice * Strength > dice * Damage

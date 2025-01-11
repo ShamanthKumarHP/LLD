@@ -1,5 +1,5 @@
-# Not suggested. Also has multiple inheritance - used unlikely
-# crux: providing a structure to processing data based on requirement from third party
+# crux: providing a structure to processing data based on requirement of third party
+# when third party accepts only JSON, but internally we are having XML, String etc then we need to adapt
 
 from abc import ABC, abstractmethod
 
@@ -42,6 +42,6 @@ class XMLtoJSON(TargetAdapter):
 
 
 if __name__ == "__main__":
-    data = "JSON DATA"
+    data = "XML DATA"
     analyser = XMLtoJSON(data)
     analyser.analyseData()

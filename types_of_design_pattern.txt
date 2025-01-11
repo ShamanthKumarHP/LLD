@@ -15,7 +15,6 @@ Behavioural:
     6. Template
     7. State
 
-
 Structural:
     1. Adapter
     2. Decorator

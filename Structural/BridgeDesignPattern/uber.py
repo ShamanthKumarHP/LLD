@@ -1,4 +1,6 @@
 # crux: To have a bridge between refined class and Implementator
+# Instead of creating multiple classes with is-a relationship like UberEatsWithGmaps, UberEatsWithAppleMaps, UberRideWithGmaps, UberRideWithAppleMaps,
+# Create a bride with has-a relationship by decoupling navigation system
 
 from abc import ABC, abstractmethod
 

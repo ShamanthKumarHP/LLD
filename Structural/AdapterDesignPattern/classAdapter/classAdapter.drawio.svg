@@ -1,0 +1,128 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="881px" height="304px" viewBox="-0.5 -0.5 881 304" content="&lt;mxfile&gt;&lt;diagram id=&quot;3mB_JyrHOWyOioY6jLyM&quot; name=&quot;Page-1&quot;&gt;7Vrdb9s4DP9rAuweVthy4rWP+dhuG9pdcRmw3aNqq7Yw2TJkpUn21x9lSfF3mzS+9B4MBIhJk7LEHymSsifeMtn9KXAW3/GQsAlywt3EW00QchFy4E9x9prj39xoRiRoaIRKxpr+JoZp9KINDUleE5ScM0mzOjPgaUoCWeNhIfi2LvbIWf2pGY7ME52SsQ4wIy2xHzSUseYix6mIfyY0imXzToKttGHkMQ75tsLyPk68peBc6qtktyRMWc8aRut96rl7mJkgqTxGAWmFJ8w2ZnFfc57OU8z2ORFmjnJvV55vacJwCtTikadybe64QGNGoxSuA3gyaHqLJyIkBaPNzQ3JM+AGMWXhLd7zjZpfLnHwy1KLmAv6G4bFzIwJt4U0+CO/JrFWmsB2gCtIDjL3dtFug3WHdzXBW5xLwwg4YzjL6cNhGQkWEU0XXEqeGCFjIlgO2fWa2T2AB25PeEKk2IOIUZheG7yNx1tyW7qP6xteXPGca994rfHY6DByiSlcGFi7IfZaEE/QQrk9Jcrv5yp69hlpYQ2rlQUGgv8iS844gLpKuQafMtZgWfwZeZS96OcZDmga3RYyq2nJ+dusWbE46D6yIipiGoYkVchxiSXWMClMMk5TWRhltoAfmG7pXM0mM5j4Emi3pOGnxIVc8hTWgmmBGAEf2BLlB8fBi7rhNXAi/zg40QBwTjvgbCDHaIGIRs7uUO6rYEsAAEZKnL4rGFfv3RaWXhtLrwM3hh8Iu+c5lZSr8YWWbeD5EmR1n6RpTAQdCMoZOjIyz0dy1hOYWO++KzDcOxWZf4xBOgSy/pF77hBB6ndA6zO9EPvvfIdUQ+Q8xJlKmCpR+5ERico1j9n37Ox7gPkNsu+HMfueH9j+/yb7Xo/Z97zs+zyUF8y+N2P2vWSQXjL72nOCClIkhA7ekAaNWCY205EdlT+V2cAemvrHGFFdr3ZVYm+JNJyrswQgHxhX2VCxPlE1q0riUg9+Pm3BPPlGBFbKHmgUxUHFVduWFYRhSZ/qw59jN5us/mO7way00nQ6tQyl51453rVllMoFVdO+hw0HFqfqnIEtPbuQpe2zK7vPz7tbyb+u//o2ln0DlX0eqpd9B/qlPcjyzkK469hlrBROqBTcHnRPrPoGKBXcrjMXVSuos9KrsWB4ZcHwAsDe9HIVg90ZKggvGVUzHTfjYTbj92j6dk04aqfbsQs//XjN6Ub4Ddpwm0zH7PrqU/DnwbxgI977ggpGink45tQBY/SSXbh9U3VyN2mvi17y0Fl2d5OTV7V+fbnq6D7PqN4rdCsNh9toOD40GgndahqthiUP0zjOuO2DyLuN+gICbIucL3ovwGnQGy4Vu79Ytxy2v6J66PVu5cB4I3muyxX3hKAcoMBwG6/YkTtr+7rX4eve6d0ekOUnGhq98ksX7+O/&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-724-31-152-26-0">
+            <rect x="724" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-65-152-26-0">
+            <rect x="724" y="65" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-31-152-26-0">
+            <rect x="404" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-65-152-26-0">
+            <rect x="404" y="65" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-564-279-152-26-0">
+            <rect x="564" y="279" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-31-152-26-0">
+            <rect x="4" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-65-152-26-0">
+            <rect x="4" y="65" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 720 26 L 720 0 L 880 0 L 880 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 720 26 L 720 86 L 880 86 L 880 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 26 L 880 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="799.5" y="17.5">
+                JsonAnalyser
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-31-152-26-0)" font-size="12px">
+            <text x="725.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 720 56 L 880 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-65-152-26-0)" font-size="12px">
+            <text x="725.5" y="77.5">
+                + analyseData(type): type
+            </text>
+        </g>
+        <path d="M 400 26 L 400 0 L 560 0 L 560 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 26 L 400 86 L 560 86 L 560 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 26 L 560 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="479.5" y="17.5">
+                &lt;&lt; TargetAdapter &gt;&gt;
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-31-152-26-0)" font-size="12px">
+            <text x="405.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 400 56 L 560 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-65-152-26-0)" font-size="12px">
+            <text x="405.5" y="77.5">
+                + analyseData(type): type
+            </text>
+        </g>
+        <path d="M 640 240 L 498.07 91.86" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 493.23 86.81 L 500.6 89.44 L 495.54 94.28 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 240 L 786.57 91.52" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 790.25 87.78 L 787.83 95.22 L 786.57 91.52 L 782.85 90.31 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 266 L 560 240 L 720 240 L 720 266" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 266 L 560 300 L 720 300 L 720 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 266 L 720 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="639.5" y="257.5">
+                XMLtoJSON
+            </text>
+        </g>
+        <path d="M 560 270 L 720 270" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-564-279-152-26-0)" font-size="12px">
+            <text x="565.5" y="291.5">
+                + Json.analyseData(type): type
+            </text>
+        </g>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 86 L 160 86 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                Client
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-152-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 0 56 L 160 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-65-152-26-0)" font-size="12px">
+            <text x="5.5" y="77.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 160 39 L 544.65 286.55" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 549.06 289.39 L 541.28 288.55 L 544.65 286.55 L 545.07 282.66 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 150px; margin-left: 485px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                Multiple Inheritance
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="485" y="154" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Multiple Inheritance
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

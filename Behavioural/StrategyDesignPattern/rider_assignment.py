@@ -38,10 +38,8 @@ if __name__ == "__main__":
     my_rider = RiderAssignment()
 
     # Select and set the rider assigment strategy at runtime
-    assignmet_stategy = PocketFriendly()
-    my_rider.algorithm = assignmet_stategy
+    my_rider.algorithm = PocketFriendly()
     my_rider.assign_rider(amount=500)
 
-    assignmet_stategy = QuickSelect()
-    my_rider.algorithm = assignmet_stategy
+    my_rider.algorithm = QuickSelect()
     my_rider.assign_rider(amount=200)

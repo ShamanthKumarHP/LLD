@@ -1,0 +1,139 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="511px" height="534px" viewBox="-0.5 -0.5 511 534" content="&lt;mxfile&gt;&lt;diagram id=&quot;B1NSP-ENe0n_unwCW3Z-&quot; name=&quot;Page-1&quot;&gt;7VnbbqMwEP2aSO1DK8ytzWMu7e5KqTbarLS7jy44YNXYyDhN0q/fMZgAIWnTpk37gBRFzPHYeOaMhyPoOaNk9U3iNL4TIWE92wpXPWfcs23f8+FfA2sDuFcFEEkaFhCqgBl9Iga0DLqgIckajkoIpmjaBAPBOQlUA8NSimXTbS5Y864pjkgLmAWYtdE/NFRxgdqWZVUD3wmNYrU9kuDS2wBZjEOxrEHOTc8ZSSFUcZWsRoTp5JWJKebd7hnd7EwSrg6ZYBcTHjFbmOB+ypDIqRQBybLfJEkZVsTsVa3LDGRLmjDMwRrOBVczM4LAxoxGHK4D2AGRADwSqSgkb2AGlEgBDWLKwglei4XeZ6Zw8FBaw1hI+gTLYmbWhGGpTB3YfsNjpmcCbAEqSQY+0zJ4tAXd4VXDcYIzZYBAMIbTjN5vwkiwjCgfCqVEYpxMqiAcstqbbrQhEaqfiIQouQYXM8F1De+m8lHf2MtGHRVY3CwhU7+mdqPN2hW7cGEI3k220yK7Zw/1AaBEn4CBPkfrtM02xKtyFqR4ICPBBNA65qKgnzK2BZUVwMhc7eU/S3FAeTTJfcZuhfwyQWtIwNw5y89HTMOQcM2dUFjhgijNSiooV3lSvCH8IE0j69LrebDxEdiosuGn3aUaCQ6xYJpzRqAKlkRXwmEE27sJNoTa/oF8+sfT6e6gc4s5RnNGCubKXoXeRFsCBDBS8fRb0zi+QC0unTaXzg7eGL4nbCoyqqjQ68vCd4vPlyhr1iTlMZH0naj07MOovD6eSa/F5IXeatGE84Z8pg/mef2MQgE5KG9LI7s3sNr/EDydr8/OD3DFWQZsjacHOad4nUAKm771y2GR+dbN8wF9q4hv3yofqi3cNaC3Vq1/4AMFue/wQEFuiyoSglQypqEjVkn5ICcrqv7qvEFCCuufyaK+Hq/qxro0OOzKTLK9EtDz0KVloxKoJudWY/YUqhGC03IkB0OcxSQs98TDgRaFYN4zocWEhm6pjrr23NeBPf/UhzyIhQyMl2nwoFwiomrHvM2cJKCx6GNz9WNo8VvtZCKg/uvKDo5Lp+neR9PZW5rOs0+p6a46TXd8S/W/jKa77jTdcZrueSpPqOn6ew5mp+q6FvTquj2tqvNOrOrcuqizLvt956uKuvIN5GeouvLetY7yQ8sxjnW37eTdB8k7z/tMeYdQp++Ob67I2k3xJwg81H7j3im8Vym8F8g8ocRD+16odxqva0Ovr9yPFHlgVh8V87Hap1nn5j8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-204-31-192-26-0">
+            <rect x="204" y="31" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-204-65-192-140-0">
+            <rect x="204" y="65" width="192" height="140"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-361-192-26-0">
+            <rect x="4" y="361" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-395-192-140-0">
+            <rect x="4" y="395" width="192" height="140"/>
+        </clipPath>
+        <clipPath id="mx-clip-314-361-192-26-0">
+            <rect x="314" y="361" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-314-395-192-140-0">
+            <rect x="314" y="395" width="192" height="140"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 200 26 L 200 0 L 400 0 L 400 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 200 26 L 200 200 L 400 200 L 400 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 26 L 400 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="299.5" y="17.5">
+                OrderProcessTemplate
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-31-192-26-0)" font-size="12px">
+            <text x="205.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 200 56 L 400 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-65-192-140-0)" font-size="12px">
+            <text x="205.5" y="77.5">
+                - processOrder(type): type
+            </text>
+            <text x="205.5" y="91.5">
+                verify()
+            </text>
+            <text x="205.5" y="105.5">
+                assingDP()
+            </text>
+            <text x="205.5" y="119.5">
+                payment()
+            </text>
+            <text x="205.5" y="147.5">
+                + verify()
+            </text>
+            <text x="205.5" y="161.5">
+                + assignDP()
+            </text>
+            <text x="205.5" y="175.5">
+                + payment()
+            </text>
+        </g>
+        <path d="M 100 330 L 298.1 207.22" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 304.05 203.53 L 299.94 210.19 L 296.26 204.24 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 356 L 0 330 L 200 330 L 200 356" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 356 L 0 530 L 200 530 L 200 356" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 356 L 200 356" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="99.5" y="347.5">
+                LocalOrderProcessor
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-361-192-26-0)" font-size="12px">
+            <text x="5.5" y="373.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 0 386 L 200 386" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-395-192-140-0)" font-size="12px">
+            <text x="5.5" y="407.5">
+                + processOrder(type): type
+            </text>
+            <text x="5.5" y="421.5">
+                verify()
+            </text>
+            <text x="5.5" y="435.5">
+                assingDP()
+            </text>
+            <text x="5.5" y="449.5">
+                payment()
+            </text>
+            <text x="5.5" y="477.5">
+                + verify()
+            </text>
+            <text x="5.5" y="491.5">
+                + assignDP()
+            </text>
+            <text x="5.5" y="505.5">
+                + payment()
+            </text>
+        </g>
+        <path d="M 410 330 L 312.99 205.42" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 308.69 199.9 L 315.75 203.27 L 310.23 207.58 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310 356 L 310 330 L 510 330 L 510 356" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310 356 L 310 530 L 510 530 L 510 356" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310 356 L 510 356" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="409.5" y="347.5">
+                InternationalOrderProcessor
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-314-361-192-26-0)" font-size="12px">
+            <text x="315.5" y="373.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 310 386 L 510 386" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-314-395-192-140-0)" font-size="12px">
+            <text x="315.5" y="407.5">
+                + processOrder(type): type
+            </text>
+            <text x="315.5" y="421.5">
+                verify()
+            </text>
+            <text x="315.5" y="435.5">
+                assingDP()
+            </text>
+            <text x="315.5" y="449.5">
+                payment()
+            </text>
+            <text x="315.5" y="477.5">
+                + verify()
+            </text>
+            <text x="315.5" y="491.5">
+                + assignDP()
+            </text>
+            <text x="315.5" y="505.5">
+                + payment()
+            </text>
+        </g>
+    </g>
+</svg>

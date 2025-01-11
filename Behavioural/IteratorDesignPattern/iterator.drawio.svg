@@ -1,0 +1,163 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="801px" height="584px" viewBox="-0.5 -0.5 801 584" content="&lt;mxfile&gt;&lt;diagram id=&quot;JBbJMPb12VzbI4acFCrh&quot; name=&quot;Page-1&quot;&gt;7Vpdb6M4FP01SDMPrfgIlDw2yczsSp1RtV1pdx9dcMAag5FxmmR+/V6DHSBAQz4m6QNSJPDxNcH3+PoeGxvOPNl84yiLv7MQU8M2w43hLAzbtkzXg4tEthqZPJRIxEmosAp4Ib+wNlToioQ4bxgKxqggWRMMWJriQDQwxDlbN82WjDb/NUOR+kezAl4CRHHL7B8SirhEbdOsmf+BSRSL/ZoEaWsF5DEK2boGOV8MZ84ZE+VdspljKt2nHVO2+9pTu3szjlMxpIFdNnhDdKU6Z9gehaaz6mr+KTBHgnFDPsyLVK26Fr0QW+2bfE0SilIozZYsFS+qxoIyoiRK4T6Ad8McgDfMBQG3PqoKwTJAg5jQ8Alt2Ur2IBco+KlLs5hx8gsei6h6JlRzoUaI7TUsXmRLgE1AOc7B5lm7xdqDvqNNw/AJ5UIBAaMUZTl53XUjQTwi6YwJwRJl1Pa6IkL2EG9qkGLhG2YJFnwLJqp2ooeICoqpKq6rAWZ5CotrY8uaKBCpQR3tHl3RDjeK+e5R4HSMAkn8kmAZGo8ywLYZbpENfRMFCZz9xHNGYYg4i5SV7BNK9yA9ACheil768wwFJI2eCpvFpEL+Up2WEIO2S1oETkzCEKeSOiaQQCVPkpSMkVQUTnFn8AM3zc1713DhxedQtqoy/KQ5F3OWQl8QKVjEMAjWOBed/NqD+VV82t4wPrXdOXROOujcY46SgpGSOT2JWSfRlgABFFc8/S1pXNxZLS6dNpdOB28UvWL6zHIiCJPP56XtHp+HKGuOSZLGmJMLUenaw6j0z2fS7QnMGOU/IPY+yaj8XA9QGD2OVU5J0i6VRp9b8JLwvMDHeD51EHgD52f/AtOznhNqTOEQFIkqKjZikeisiDdE/CvdBv4oS/8pJ8r7xaZe2OpCCm9VNppMJxqQ7ax703Y1UDUuSo3WzxBj0DmZ2xUYPkq5BcVXymQyltBXIjtaGIQoj3GoXro3ieZsxQPVb+UJyPoRFo0YkR55lziOKRLkranhzqLFvwotOx+qBzZdWAggbRESlLA01HDN7FTn3s67Xmvq+4ESPEM5Dis9OorPi4hP222KT8e+pvp86ElyGV+Fq0A8EekPmeKeOZPAmLZ2THuDmb6BDPVHGXqEDD2ayivK0OkoQz9oPF9Vhj5cV4Z61rQuQ837qe+fIkMbKvOgJh2klPRO5IfQofplauH5zEkwaqXfopVc75ZaybJaXI9bde/Pqbvw+JAiyeragR9VUp9KOp7MK8okq28ffdRJN4/pawolq73yUUvXxyjiOBrz8QXz8Z3fzMd+B9H+b0vHfSujce/icAz7g6l+Jy93UXuJvGy3RfWYl9/Jy0eT2ZWXu8i8QF62+0QzCuX6KPmkgrOdeQOOkcB6DVXP373rqjGgz0vKnWPgErsXbaHdNyePqfi0VGzZzVR8Zw1eG9uXYHg8xnL0Z297MMc3WBuPB1mOysHHk3nFtXHvUZYUJfjgwjiT+5lj3J5B9dD1r3eJiXjaomrYhwJ9X273648GBz8UuJ5j1M+rGCd8JBh4juLQcYzeLFr/erA7tHyLgxZQrI4XF3W1Y9rOl/8B&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-484-241-152-26-0">
+            <rect x="484" y="241" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-484-275-152-80-0">
+            <rect x="484" y="275" width="152" height="80"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-471-152-26-0">
+            <rect x="334" y="471" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-505-152-80-0">
+            <rect x="334" y="505" width="152" height="80"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-471-152-26-0">
+            <rect x="644" y="471" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-505-152-80-0">
+            <rect x="644" y="505" width="152" height="80"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-231-172-26-0">
+            <rect x="4" y="231" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-265-172-80-0">
+            <rect x="4" y="265" width="172" height="80"/>
+        </clipPath>
+        <clipPath id="mx-clip-204-31-152-26-0">
+            <rect x="204" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-204-65-152-60-0">
+            <rect x="204" y="65" width="152" height="60"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 480 236 L 480 210 L 640 210 L 640 236" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 480 236 L 480 350 L 640 350 L 640 236" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 236 L 640 236" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="559.5" y="227.5">
+                &lt;&lt; Iterator &gt;&gt;
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-484-241-152-26-0)" font-size="12px">
+            <text x="485.5" y="253.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 480 266 L 640 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-484-275-152-80-0)" font-size="12px">
+            <text x="485.5" y="287.5">
+                + hasNext(type): type
+            </text>
+            <text x="485.5" y="301.5">
+                + next()
+            </text>
+            <text x="485.5" y="315.5">
+                + first()
+            </text>
+        </g>
+        <path d="M 410 440 L 552.05 356.13" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 558.08 352.57 L 553.83 359.14 L 550.27 353.11 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 407.32 432.78 L 291.14 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 409.75 439.34 L 405.25 437.27 L 407.32 432.78 L 411.82 434.84 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 466 L 330 440 L 490 440 L 490 466" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 466 L 330 580 L 490 580 L 490 466" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 466 L 490 466" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="409.5" y="457.5">
+                NameBasedIterator
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-471-152-26-0)" font-size="12px">
+            <text x="335.5" y="483.5">
+                + pruductList: Product
+            </text>
+        </g>
+        <path d="M 330 496 L 490 496" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-505-152-80-0)" font-size="12px">
+            <text x="335.5" y="517.5">
+                + hasNext(type): type
+            </text>
+            <text x="335.5" y="531.5">
+                + next()
+            </text>
+            <text x="335.5" y="545.5">
+                + first()
+            </text>
+        </g>
+        <path d="M 720 440 L 585.86 353.44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 579.98 349.65 L 587.76 350.5 L 583.96 356.38 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 466 L 640 440 L 800 440 L 800 466" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 466 L 640 580 L 800 580 L 800 466" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 466 L 800 466" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="719.5" y="457.5">
+                PriceBasedIterator
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-471-152-26-0)" font-size="12px">
+            <text x="645.5" y="483.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 640 496 L 800 496" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-505-152-80-0)" font-size="12px">
+            <text x="645.5" y="517.5">
+                + hasNext(type): type
+            </text>
+            <text x="645.5" y="531.5">
+                + next()
+            </text>
+            <text x="645.5" y="545.5">
+                + first()
+            </text>
+        </g>
+        <path d="M 0 226 L 0 200 L 180 200 L 180 226" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 226 L 0 340 L 180 340 L 180 226" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 226 L 180 226" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="217.5">
+                ProductAggregator
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-231-172-26-0)" font-size="12px">
+            <text x="5.5" y="243.5">
+                + pruductList: Product
+            </text>
+        </g>
+        <path d="M 0 256 L 180 256" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-265-172-80-0)" font-size="12px">
+            <text x="5.5" y="277.5">
+                + addItem(Product)
+            </text>
+            <text x="5.5" y="291.5">
+                + createIterator(type): Iterator
+            </text>
+        </g>
+        <path d="M 200 26 L 200 0 L 360 0 L 360 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 26 L 200 120 L 360 120 L 360 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 26 L 360 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="279.5" y="17.5">
+                Product
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-31-152-26-0)" font-size="12px">
+            <text x="205.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 200 56 L 360 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-65-152-60-0)" font-size="12px">
+            <text x="205.5" y="77.5">
+                + name(type): type
+            </text>
+            <text x="205.5" y="91.5">
+                + price
+            </text>
+        </g>
+        <path d="M 184.02 293.42 L 290.08 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 180.37 299.4 L 179.21 294.58 L 184.02 293.42 L 185.18 298.24 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

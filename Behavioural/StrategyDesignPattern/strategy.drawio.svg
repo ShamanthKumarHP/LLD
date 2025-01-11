@@ -1,0 +1,112 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="851px" height="340px" viewBox="-0.5 -0.5 851 340" content="&lt;mxfile&gt;&lt;diagram id=&quot;Ru-_oLFs6RfAEw3Y3KYe&quot; name=&quot;Page-1&quot;&gt;7VpNb6MwEP01kXYPXfGR0PbYJO3uoZWqZqXdHl2YgFVjI+M2SX/9jsEESEibNITuASkSzHhs7HkzzNOEgTuJlz8lSaI7EQAbOFawHLjTgePY1sjDi9asco03PM8VoaSBMSoVM/oGxUyjfaEBpDVDJQRTNKkrfcE5+KqmI1KKRd1sLlj9qQkJzROtUjHzCYMtsz80UFGudSyrYv4LaBipzZGYFNZGkUYkEIuKyr0euBMphMrv4uUEmPZe4Zh83s2O0fXOJHC1zwQnn/BK2Is53MDxGE4dl1drBgzdSAWfKUkUhKuBXtULjZm5ZsdRq8JJ6YLGjHCUxnPB1cyM2CgTRkOO9z5uEiQqXkEqiv69MgNKJKj1I8qCW7ISL/ooqSL+cyGNIyHpGy5LmFkTh6UyoeJ4NYuZnolqC7USUrS5L/xjb6juyLJmeEtSZRS+YIwkKX1aHyMmMqR8LJQSsTEy3sTjwHInIvYaZ8wQEDEoqT1qJgyHJjRMctgjIy8qoVZkQlSJsguTVcREd7heusQfb0wINIeD2xAOOgLmFHSOXOlMWyWwBTYeV2UgSPEME8EEojrlIkefMrahKgKAwVzthD9NiE95eJvZTIel5sGcWasEzp2zLIMiGgTANXRCEUVynDQoiaBcZU4ZjfGHrptYP0aDEW58grJdyvjT5lJNBMezEJpBBhgEC0jVvvg6zfgaPB1vPzidFuAcNsC5gRyjGSI5csXbzP4UbDECwKDE6beGcXpmb2HpbmPpNuDGyBOwe5FS/epBncxtN/D8CLJ6TFIegaQtQTly9szM45Ec7UjMENQDFkP5Tafl9z5D24DV2/OF20aG2sMtpCBAsmFEg0ak4qLOBSSNIDAC8OBK8xkUn5jQRU6rbqh+XKUe6RXfr0a4AfEifWNlzoUVFcOrEn/bHpPAiKKv9dWP8Ye3FecP+AAejkkKQUk/eq7RCtdw3DrXcC875BrnPdc4/k3m/Tdc46LnGsdxjfeh7JBrXPZco7MM7ZRrjA7kGrCk6q92G/ojlx6NE/X9dFkVVoXAcVf5pOGFXSge14QFhXJiJtVm3mPG4MF0pc6UXdCdwt9fwXeKZ1eSbUqRX3AfespzCsrjWXXKM7Q6pDy23XOe49+ottWM8BeQHrupf9qzngNYzwdgdkh77F3Nz573nCBLOyU+212FCaN6p31Vbaeqnu3zp4V7qqq6q5OQFuQpS9mGf7H6/H0H8MNbC00At5K/fW/h2Cp7eHOhMVtbwHJXdwFXikTQ19gWc7Spxp4qR9cfNBzaXCjus9bCutGwq7mwbgD4jKQp9WstAPvzLQBTQqotALfZt8e2AFAsP+/IxipfybjX/wA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-484-31-202-26-0">
+            <rect x="484" y="31" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-484-65-202-26-0">
+            <rect x="484" y="65" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-274-271-202-26-0">
+            <rect x="274" y="271" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-274-305-202-26-0">
+            <rect x="274" y="305" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-281-202-26-0">
+            <rect x="644" y="281" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-644-315-202-26-0">
+            <rect x="644" y="315" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-31-222-26-0">
+            <rect x="4" y="31" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-65-222-26-0">
+            <rect x="4" y="65" width="222" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 480 26 L 480 0 L 690 0 L 690 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 480 26 L 480 86 L 690 86 L 690 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 26 L 690 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="584.5" y="17.5">
+                &lt;&lt; SelectionStrategy &gt;&gt;
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-484-31-202-26-0)" font-size="12px">
+            <text x="485.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 480 56 L 690 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-484-65-202-26-0)" font-size="12px">
+            <text x="485.5" y="77.5">
+                + getRider(type): type
+            </text>
+        </g>
+        <path d="M 418 240 L 566.26 91.74" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 571.21 86.79 L 568.73 94.22 L 563.78 89.27 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 270 266 L 270 240 L 480 240 L 480 266" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 270 266 L 270 326 L 480 326 L 480 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 270 266 L 480 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="374.5" y="257.5">
+                RatingBasedStrategy
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-274-271-202-26-0)" font-size="12px">
+            <text x="275.5" y="283.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 270 296 L 480 296" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-274-305-202-26-0)" font-size="12px">
+            <text x="275.5" y="317.5">
+                + getRider(type): type
+            </text>
+        </g>
+        <path d="M 745 250 L 586.75 91.74" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 581.8 86.79 L 589.23 89.27 L 584.28 94.22 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 276 L 640 250 L 850 250 L 850 276" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 276 L 640 336 L 850 336 L 850 276" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 640 276 L 850 276" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="744.5" y="267.5">
+                DistanceBasedStrategy
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-281-202-26-0)" font-size="12px">
+            <text x="645.5" y="293.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 640 306 L 850 306" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-644-315-202-26-0)" font-size="12px">
+            <text x="645.5" y="327.5">
+                + getRider(type): type
+            </text>
+        </g>
+        <path d="M 0 26 L 0 0 L 230 0 L 230 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 86 L 230 86 L 230 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 230 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="114.5" y="17.5">
+                Client
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-222-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                + strategy: SelectionStrategy
+            </text>
+        </g>
+        <path d="M 0 56 L 230 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-65-222-26-0)" font-size="12px">
+            <text x="5.5" y="77.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 230 39 L 473.63 39" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 478.88 39 L 471.88 42.5 L 473.63 39 L 471.88 35.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

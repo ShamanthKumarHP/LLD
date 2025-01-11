@@ -1,9 +1,11 @@
 # crux: Skeleton is defined for what steps to be taken, but behaviour of each step will vary
 
 from abc import ABC, abstractmethod
-
+from typing import final
 # abstract class
 class OrderProcessTemplate:
+    
+    @final
     def process_order(self):
         self.verifyOrder()
         self.assignDeliveryPartner()

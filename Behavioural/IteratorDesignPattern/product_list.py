@@ -1,4 +1,4 @@
-# crux: access elements of an aggregate objects
+# crux: access elements of an aggregate objects in a desired way
 from abc import ABC, abstractmethod
 
 # product class

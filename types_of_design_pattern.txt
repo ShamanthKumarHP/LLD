@@ -22,3 +22,4 @@ Structural:
     4. Composite
     5. Facade
     6. Proxy
+    7. Flyweight
